@@ -53,5 +53,5 @@ Summary of Dmitri Moore’s the folder structure below.  For a full view of the 
 ```
 >[John Papa’s style guide](https://github.com/johnpapa/angular-styleguide#folders-by-feature-structure) is similar to what the [AngularAtom](https://gist.github.com/demisx/cbbf605db31e7c9f5cf6) folder structure is suggesting; just isn’t as detailed.
 
-- Folder by Feature: create folders named for the feature they represent. When a folder grows to contain more than 7 files, consider creating a new folder.
-- Layout Folder: components that define the overall layout of the application; these may include a shell view and controller (navigation, menus, etc.)
+- **Folder by Feature**: create folders named for the feature they represent. When a folder grows to contain more than 7 files, consider creating a new folder.
+- **Layout Folder**: components that define the overall layout of the application; these may include a shell view and controller (navigation, menus, etc.)
