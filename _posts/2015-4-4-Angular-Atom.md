@@ -1,10 +1,11 @@
 ---
-published: false
+published: true
 layout: post
 title: "AngularAtom: Component-based Organization Directory Structure"
 category: JavaScript
 tags: AngularJs
 ---
+
 
 With the changes in AngularJs 2.0 coming down the pipe, many have started to prepare for the component-based pattern. 
 
