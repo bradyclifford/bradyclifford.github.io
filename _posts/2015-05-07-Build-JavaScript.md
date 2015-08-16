@@ -10,6 +10,7 @@ I attempted to convince the architecture committee at one of my jobs why we need
 I based my slidedeck on the presentation [Peter Hunt](https://youtu.be/VkTCL6Nqm6Y) gave back in 2014.  
 
 **To summarize:**
+
 - Spas are the best UX experience
 - Con is that the initial load takes too long
 - Instagram has 10 SPAs in their architecture
