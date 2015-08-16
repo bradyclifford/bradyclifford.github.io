@@ -1,14 +1,10 @@
 ---
 layout: post
+title: AngularJs - Make things more modular
+published: true
 category: JavaScript
 tags: AngularJs
-title: AngularJs: Make things more modular
 ---
-
-
-
-
-
 
 There is a great talk that Nicholas Zakas gave (former front-end engineer for Yahoo and contributor to YUI).  He talks about decoupling the front-end into a modular web application utilizing the event-driven architecture pattern.  Here is a great summary as to how AngularJs acts like a Scalable Application Architecture.
 http://serebrov.github.io/html/2013-03-18-js-scalable-architecture.html
