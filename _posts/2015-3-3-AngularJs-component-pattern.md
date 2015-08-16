@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+title: AngularJs and the Component Pattern
 ---
 
 ## A New Post
