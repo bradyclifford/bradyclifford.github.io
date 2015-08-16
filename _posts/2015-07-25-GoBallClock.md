@@ -1,8 +1,9 @@
 ---
-published: false
+published: true
 layout: post
 title: My first look at Go Lang.
 ---
+
 
 Had my first look at the Go Lang. Went ahead with a small excersise and wrote a ball clock out of the language.
 
