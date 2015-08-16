@@ -1,10 +1,11 @@
 ---
-published: false
+published: true
 layout: post
 title: Building our JavaScript
 category: JavaScript
 tags: AngularJs
 ---
+
 
 I attempted to convince the architecture committee at one of my jobs why we needed to build our JavaScript.  I put together a [slidedeck](http://www.slideshare.net/bradyclifford/building-javascript) that went through the whys and the benefits.  [Take a look](http://www.slideshare.net/bradyclifford/building-javascript)...
 
@@ -38,6 +39,3 @@ Prepares us for AngularJs 2 and ES6
   - Avoids the second hop to our F5 and web farm in our current architecture
   - Brings us closer to a true micro services SOA architecture; separating the front end from the middle tier.
   - Allows us to use redirection only for api calls.  Don’t have to perform a browser redirect during login.
-
-
-
