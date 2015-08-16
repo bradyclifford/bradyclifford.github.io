@@ -3,6 +3,7 @@ published: true
 layout: post
 category: JavaScript
 tags: AngularJs
+title: AngularJs: Make things more modular
 ---
 
 
