@@ -22,7 +22,7 @@ Dmitri Moore has a great blog around the [AngularAtom](http://demisx.github.io/a
   - Instead of placing all routes / states within a single route.js config file, they are modularized.  Each state folder contains its own route config file with that specific route / state.
   - Each state may contain one or more child states that, unlike sub-components, each define their own module.  This is because each state, be it parent or child, is looked at as an independent citizen that can be added or removed at any time of the application lifecycle.
 
-...```
+  ```
 1. 'phones'         // abstract state, can't be transitioned to
 2. 'phones.list'    // UI shows a list of all phones
 3. 'phones.detail'  // UI shows detail info on the selected phone
@@ -32,7 +32,7 @@ Dmitri Moore has a great blog around the [AngularAtom](http://demisx.github.io/a
           /    \
          /      \
       |list|  |detail| // <-- concete states that plug in their own content into the default layout
-```..
+```
 - **Layout folder**: contains all partial files that support the application shell. 
   - Layouts are injected into the main app/index.html by the abstract states. Your public section, for example, may inject one layout (ex. public.html) from the app.public abstract state, with this the secure section may inject a completely different layout (ex. secure.html) from the app.secure abstract state.
 - **Helpers folder**: contains a collection of various utilities not specific to any component. Usually implemented as JS pure functions.
