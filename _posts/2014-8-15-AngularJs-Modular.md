@@ -18,7 +18,7 @@ http://serebrov.github.io/html/2013-03-18-js-scalable-architecture.html
 - Module - AngularJs Directives
 
 To give a quick synopsis of that talk, it is based around the event-driven pattern.  There is a JavaScript framework called scaleApp that utilizes this type of pattern.  They have a good architecture synopsis on Nicholas Zakas’s approach that you can quickly digest:  http://scaleapp.org/readme.html#architecture-overview && http://www.microsoft.com/en-GB/developers/articles/scalable-javascript-application-architecture.
-![Event Driven Architecture]({{site.baseurl}}/images/posts/2014-8-15-AngularJs-Modular.event-driven-architecture.png)
+![Event Driven Architecture]({{site.baseurl}}/images/posts/2014-08-15-AngularJs-Modular.event-driven-architecture.png)
 
 >To wrap-up, if we can talk about AngularJs and how we engineer it within our own domain utilizing a event-driven component / module methodology, I feel it can enhance our judgment when making decisions about its implementation and complementary frameworks and tools.
 
