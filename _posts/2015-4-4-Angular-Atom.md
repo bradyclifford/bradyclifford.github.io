@@ -14,13 +14,13 @@ Dmitri Moore has a great blog around the [AngularAtom](http://demisx.github.io/a
 
 **Components folder**: all stateless components / services.
 - A components folder can have sub components
-  - A component has a component.model.js file and a component.service.js.  The model contains the data while the service is responsible for getting, setting that data.
-  - Single responsibility per file standard.  Does not place controller, directive and module within the same file.
-  - Component folder can contain a Data folder for specific JSON data files and related assets
+..- A component has a component.model.js file and a component.service.js.  The model contains the data while the service is responsible for getting, setting that data.
+..- Single responsibility per file standard.  Does not place controller, directive and module within the same file.
+..- Component folder can contain a Data folder for specific JSON data files and related assets
 - Each component or state folder can contain a i18n folder for resource localization
 - **State folder**: contains everything necessary to render the particular UI state
-  - Instead of placing all routes / states within a single route.js config file, they are modularized.  Each state folder contains its own route config file with that specific route / state.
-  - Each state may contain one or more child states that, unlike sub-components, each define their own module.  This is because each state, be it parent or child, is looked at as an independent citizen that can be added or removed at any time of the application lifecycle.
+..- Instead of placing all routes / states within a single route.js config file, they are modularized.  Each state folder contains its own route config file with that specific route / state.
+.- Each state may contain one or more child states that, unlike sub-components, each define their own module.  This is because each state, be it parent or child, is looked at as an independent citizen that can be added or removed at any time of the application lifecycle.
 
 ...```
 1. 'phones'         // abstract state, can't be transitioned to
