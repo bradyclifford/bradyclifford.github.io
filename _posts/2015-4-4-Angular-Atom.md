@@ -22,7 +22,7 @@ Dmitri Moore has a great blog around the [AngularAtom](http://demisx.github.io/a
   - Instead of placing all routes / states within a single route.js config file, they are modularized.  Each state folder contains its own route config file with that specific route / state.
   - Each state may contain one or more child states that, unlike sub-components, each define their own module.  This is because each state, be it parent or child, is looked at as an independent citizen that can be added or removed at any time of the application lifecycle.
 
-```
+...```
 1. 'phones'         // abstract state, can't be transitioned to
 2. 'phones.list'    // UI shows a list of all phones
 3. 'phones.detail'  // UI shows detail info on the selected phone
@@ -39,7 +39,7 @@ Dmitri Moore has a great blog around the [AngularAtom](http://demisx.github.io/a
 
 Summary of Dmitri Moore’s the folder structure below.  For a full view of the folder structure, see his [GitHub](https://gist.github.com/demisx/cbbf605db31e7c9f5cf6).
 
-```
+...```
 [app-name]/ # application root directory
   |__app/   # container for all user-generated app code
   |   |__components/   # stateless feature components
@@ -51,6 +51,6 @@ Summary of Dmitri Moore’s the folder structure below.  For a full view of the 
   |__scripts/          # shell scripts like Glup tasks
   |__tests/            # e2e tests
 ```
-[John Papa’s style guide](https://github.com/johnpapa/angular-styleguide#folders-by-feature-structure) is similar to what the [AngularAtom](https://gist.github.com/demisx/cbbf605db31e7c9f5cf6) folder structure is suggesting; just isn’t as detailed.
+>[John Papa’s style guide](https://github.com/johnpapa/angular-styleguide#folders-by-feature-structure) is similar to what the [AngularAtom](https://gist.github.com/demisx/cbbf605db31e7c9f5cf6) folder structure is suggesting; just isn’t as detailed.
 - Folder by Feature: create folders named for the feature they represent. When a folder grows to contain more than 7 files, consider creating a new folder.
 - Layout Folder: components that define the overall layout of the application; these may include a shell view and controller (navigation, menus, etc.)
