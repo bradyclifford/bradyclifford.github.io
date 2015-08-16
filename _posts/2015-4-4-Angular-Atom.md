@@ -32,7 +32,7 @@ Dmitri Moore has a great blog around the [AngularAtom](http://demisx.github.io/a
          /      \
       |list|  |detail| // <-- concete states that plug in their own content into the default layout
 ```
-- ** Layout folder**: contains all partial files that support the application shell. 
+- **Layout folder**: contains all partial files that support the application shell. 
   - Layouts are injected into the main app/index.html by the abstract states. Your public section, for example, may inject one layout (ex. public.html) from the app.public abstract state, with this the secure section may inject a completely different layout (ex. secure.html) from the app.secure abstract state.
 - **Helpers folder**: contains a collection of various utilities not specific to any component. Usually implemented as JS pure functions.
 
