@@ -5,8 +5,6 @@ title: Building our JavaScript
 category: JavaScript
 ---
 
-
-
 I attempted to convince the architecture committee at one of my jobs why we needed to build our JavaScript.  I put together a [slidedeck](http://www.slideshare.net/bradyclifford/building-javascript) that went through the whys and the benefits.  [Take a look](http://www.slideshare.net/bradyclifford/building-javascript)...
 
 I based my slidedeck on the presentation [Peter Hunt](https://youtu.be/VkTCL6Nqm6Y) gave back in 2014.  **To summarize:**
