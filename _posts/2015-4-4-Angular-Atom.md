@@ -13,6 +13,7 @@ With the changes in AngularJs 2.0 coming down the pipe, many have started to pre
 Dmitri Moore has a great blog around the [AngularAtom](http://demisx.github.io/angularjs/atom/component-feature-based-organization/2014/12/13/angular-1-component-organization-4.html) proposed directory structure that addresses the component-based structure. Some of the takeaways for me pertaining to this article are I have summarized:
 
 **Components folder**: all stateless components / services.
+
 - A components folder can have sub components
   - A component has a component.model.js file and a component.service.js.  The model contains the data while the service is responsible for getting, setting that data.
   - Single responsibility per file standard.  Does not place controller, directive and module within the same file.
