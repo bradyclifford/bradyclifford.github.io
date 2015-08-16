@@ -1,7 +1,6 @@
 ---
-published: true
 layout: post
-title: Building our JavaScript
+title: "Building our JavaScript"
 category: JavaScript
 ---
 
