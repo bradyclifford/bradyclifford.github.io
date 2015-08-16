@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 category: JavaScript
 tags: AngularJs
 ---
+
 
 
 
