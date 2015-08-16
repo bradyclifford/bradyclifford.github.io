@@ -1,11 +1,10 @@
 ---
 published: true
 layout: post
-title: "Using Compnents and Resolves in UI-Router States"
+title: "Using Components and Resolves in UI-Router States"
 category: JavaScript
 tags: AngularJs
 ---
-
 
 Adding to the **Component Pattern** in relation to AngluarJs and taking excerpts from this article: [component-paradigm](https://medium.com/@tomastrajan/component-paradigm-cf32e94ba78b)
  
