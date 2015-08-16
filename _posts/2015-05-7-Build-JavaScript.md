@@ -16,8 +16,8 @@ I based my slidedeck on the presentation [Peter Hunt](https://youtu.be/VkTCL6Nqm
 - Utilize a module system to intelligently bundle your packages with a dynamic dependency map.
 
 The 2 slides from his presentation that impacted me the most:
-![Bundled Modules Example]({{site.baseurl}}/images/posts/2015-05-7-Build-JavaScript.bundled-modules.png)
-![Optimized Bundled Modules Example]({{site.baseurl}}/images/posts/2015-05-7-Build-JavaScript.optimized-bundles.png)
+![Bundled Modules Example]({{site.baseurl}}/images/posts/2015-05-07-Build-JavaScript.bundled-modules.png)
+![Optimized Bundled Modules Example]({{site.baseurl}}/images/posts/2015-05-07-Build-JavaScript.optimized-bundles.png)
 
 ###Overall, I arguired the need to build web front end code so one could:
 - **Developers to mimic production on their own box**.
@@ -43,5 +43,5 @@ Prepares us for AngularJs 2 and ES6
   - Brings us closer to a true micro services SOA architecture; separating the front end from the middle tier.
   - Allows us to use redirection only for api calls.  Don’t have to perform a browser redirect during login.
   - An example of a server agnostic web application:
-  ![2015-05-7-Build-JavaScript,objective-6.png]({{site.baseurl}}/images/posts/2015-05-7-Build-JavaScript,objective-6.png)
+  ![2015-05-7-Build-JavaScript,objective-6.png]({{site.baseurl}}/images/posts/2015-05-07-Build-JavaScript,objective-6.png)
 
