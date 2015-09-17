@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Building our JavaScript"
+title: "Task Runners and Building our JavaScript Code"
 category: JavaScript
 ---
 
 
-I attempted to convince the architecture committee at one of my jobs why we needed to build our JavaScript.  I put together a [slidedeck](http://www.slideshare.net/bradyclifford/building-javascript) that went through the whys and the benefits.  [Take a look](http://www.slideshare.net/bradyclifford/building-javascript)...
+No excuses now, every should be transpiling and building their web application.  I put together a [slidedeck](http://www.slideshare.net/bradyclifford/building-javascript) that went through the whys and the benefits.  [Take a look](http://www.slideshare.net/bradyclifford/building-javascript)...
 
 I based my slidedeck on the presentation [Peter Hunt](https://youtu.be/VkTCL6Nqm6Y) gave back in 2014.  
 
