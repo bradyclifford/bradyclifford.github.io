@@ -1,0 +1,8 @@
+---
+published: false
+layout: post
+title: Marten + Postgres
+---
+
+I have finished up a project where we replaced the use of RavenDB with that of Marten + Postgres.  The transition came from the issues we were having with RavenDB, maily its chaotic, random indexing process.  We needed a more robust solution that not only resloved our index issues but also allowed us to mix our usage with that of a relational database.
+
