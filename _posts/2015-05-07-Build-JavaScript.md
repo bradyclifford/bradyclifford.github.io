@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Task Runners and Building our JavaScript Code"
+title: Task Runners and Building our JavaScript Code
+published: true
 category: JavaScript
+tags: AngularJs
 ---
-
 
 No excuses now, every should be transpiling and building their web application.  I put together a [slidedeck](http://www.slideshare.net/bradyclifford/building-javascript) that went through the whys and the benefits.  [Take a look](http://www.slideshare.net/bradyclifford/building-javascript)...
 
