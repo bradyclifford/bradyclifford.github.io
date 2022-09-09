@@ -19,7 +19,7 @@ I will probably start on my series of posts regarding my companies team reorgani
 8. Embrace events over APIs for cross boundary communication
 9. No monolith database - embrace the duplicate data across boundaries paradigm - on the bounded context can access directly its database.  All other access must be performed through APIs or events.
 
-Some of my ideas include:
+Some other my experiences I want to eventually document by priority:
 1. Finish my Marten usage experience journal entry
 2. React and how to manage state without complex libraries like Redux - i.e. react-query
 3. Zero bug policy
