@@ -6,9 +6,9 @@ published: true
 
 Its been awhile since I have journaled my experiences in my profession; 7 years running.
 
-I am rededicating myself to journal atleast once a quater.  I have experienced many different technologies, patterns, processes, logistics over the past 7 years that I will start to document.
+I am rededicating myself to journal atleast once a quarter.  I have experienced many different technologies, patterns, processes, logistics over the past 7 years that I will start to document.
 
-I will probably start on my series of posts regarding my companies team reorganization and Gen2 tranistion experience:
+I will probably start on my series of posts regarding my companies team reorganization and Gen2 transition experience:
 1. Conway's law and how we decided to reorganize teams and management to align with a verticle instead of horizontal structure.
 2. Context mapping exercise - company wide (all disciplines) to determine the true boundaries, subdomains, core domains, etc.
 3. Method to keep the context map current and accessible to all.  This includes a single place to document our ubiquitous lanages per context.
@@ -19,7 +19,7 @@ I will probably start on my series of posts regarding my companies team reorgani
 8. Embrace events over APIs for cross boundary communication
 9. No monolith database - embrace the duplicate data across boundaries paradigm - on the bounded context can access directly its database.  All other access must be performed through APIs or events.
 
-Some other my experiences I want to eventually document by priority:
+Some other experiences I want to eventually document by priority:
 1. Finish my Marten usage experience journal entry
 2. React and how to manage state without complex libraries like Redux - i.e. react-query
 3. Zero bug policy
