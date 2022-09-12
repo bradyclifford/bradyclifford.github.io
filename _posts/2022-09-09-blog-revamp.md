@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming entries
+title: Revamp blog
 published: true
 ---
 
