@@ -14,11 +14,13 @@ I will probably start on my series of posts regarding my companies team reorgani
 3. Context mapping exercise - company wide (all disciplines) to determine the true boundaries, subdomains, core domains, etc.
 4. Method to keep the context map current and accessible to all.  This includes a single place to document our ubiquitous lanages per context.
 5. Breaking about a monolith site and database into boundaries, not all at once, little by little
+6. Importance of a Design System and Component Library
 6. Compose micro front-ends into a homogenous site with BFFs and web-components
 7. Break down buildtime dependencies between teams by embracing runtime dependencies
 8. Implement anti-corruption layers between boundaries (both internal and exterinal)
-9. Embrace events over APIs for cross boundary communication
-10. No monolith database - embrace the duplicate data across boundaries paradigm - on the bounded context can access directly its database.  All other access must be performed through APIs or events.
+9. Utilize a feature toggle system to perform A/B testing in production
+10. Embrace events over APIs for cross boundary communication
+11. No monolith database - embrace the duplicate data across boundaries paradigm - on the bounded context can access directly its database.  All other access must be performed through APIs or events.
 
 Some other experiences I want to eventually document by priority:
 1. Finish my Marten usage experience journal entry
