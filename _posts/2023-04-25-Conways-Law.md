@@ -7,8 +7,6 @@ excerpt: "Organizations often attempt to modernize architecture without moderniz
 published: true
 ---
 
-# Conway’s Law and the Reverse Conway Maneuver
-
 One of the most important lessons I have learned in enterprise software architecture is that organizational structure matters just as much as technical architecture.
 
 Possibly more.
