@@ -11,7 +11,7 @@ One of the most important lessons I have learned in enterprise software architec
 
 Possibly more.
 
-<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/9f420d0c-8a84-4a97-ac7b-00884a1ad40e" />
+![Image](https://raw.githubusercontent.com/bradyclifford/bradyclifford.github.io/images/posts/conways-law.png)
 
 Many organizations attempt large-scale modernization efforts:
 - microservices
