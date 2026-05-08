@@ -379,32 +379,15 @@ And eventually, the systems reflect it again.
 
 # References
 
-- Martin Fowler — Programs in Product Mode  
-  https://martinfowler.com/articles/programs-in-product-mode.html
-
-- Martin Fowler — Activity-Oriented Organizations  
-  https://martinfowler.com/bliki/ActivityOriented.html
-
-- Martin Fowler — Business Capability Centric Organizations  
-  https://martinfowler.com/bliki/BusinessCapabilityCentric.html
-
-- Martin Fowler — Outcome-Oriented Organizations  
-  https://martinfowler.com/bliki/OutcomeOriented.html
-
-- Martin Fowler — Products Over Projects  
-  https://martinfowler.com/articles/products-over-projects.html
-
-- Martin Fowler — Team Topologies  
-  https://martinfowler.com/bliki/TeamTopologies.html
-
+- [Martin Fowler — Programs in Product Mode](https://martinfowler.com/articles/programs-in-product-mode.html)
+- [Martin Fowler — Activity-Oriented Organizations](https://martinfowler.com/bliki/ActivityOriented.html)
+- [Martin Fowler — Business Capability Centric Organizations](https://martinfowler.com/bliki/BusinessCapabilityCentric.html)
+- [Martin Fowler — Outcome-Oriented Organizations](https://martinfowler.com/bliki/OutcomeOriented.html)
+- [Martin Fowler — Products Over Projects](https://martinfowler.com/articles/products-over-projects.html)
+- [Martin Fowler — Team Topologies](https://martinfowler.com/bliki/TeamTopologies.html)
 - Eric Evans — *Domain-Driven Design*
-
 - Martin Fowler — *Patterns of Enterprise Application Architecture*
-
 - Matthew Skelton & Manuel Pais — *Team Topologies*
-
 - Forsgren, Humble, Kim — *Accelerate: The Science of Lean Software and DevOps*
-
 - Tradable Quality Hypothesis
-
 - Design Stamina Hypothesis
