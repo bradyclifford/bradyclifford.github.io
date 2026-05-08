@@ -11,8 +11,7 @@ One of the most important lessons I have learned in enterprise software architec
 
 Possibly more.
 
-![Image](https://github.com/bradyclifford/bradyclifford.github.io/blob/1c026d0184a3121b5bac8f0a0c1364507973c655/images/posts/conways-law.png)
-
+![Conway's Law Diagram]({{ site.baseurl }}/images/posts/conways-law.png)
 
 Many organizations attempt large-scale modernization efforts:
 - microservices
