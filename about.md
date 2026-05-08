@@ -15,3 +15,5 @@ Specialties: AI-first Software Development, Professional Management, Graphical D
 Concerning my work, I strive to have a successful career in computer technology, software development and multimedia production that capitalizes on past projects and experiences; thus allowing for advancement based on my competitive spirit and desire to excel through hard work, creativity and dedication.
 
 Concerning my personal life, I strive to be a great husband, father and friend through honesty, integrity and friendship.
+
+[![Conway's Law Diagram](/images/skiing.jpg)](/images/skiing.jpg)
