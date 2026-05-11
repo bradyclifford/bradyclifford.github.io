@@ -129,6 +129,10 @@ That phrase matters because loosely coupled architecture rarely emerges accident
 
 It usually reflects loosely coupled ownership structures.
 
+*Accelerate* validated this empirically across thousands of technology professionals. Forsgren, Humble, and Kim observed:
+
+> "High performers had loosely coupled architectures. They were able to test and deploy their applications independently, on demand, without requiring coordination with other services."
+
 ---
 
 # The Reverse Conway Maneuver
@@ -370,6 +374,10 @@ Governance shifted from gatekeeping to visibility.
 
 That distinction matters enormously.
 
+*Accelerate* confirmed this pattern through empirical research spanning high-, medium-, and low-performing technology organizations:
+
+> "We found that the use of a change advisory board (CAB) was negatively correlated with software delivery performance. Approval by an external review body had no positive impact on change failure rate."
+
 The organizations that move fastest are usually not the organizations with the fewest controls.
 
 They are the organizations where controls are automated, decentralized, and embedded directly into delivery workflows.
@@ -422,6 +430,10 @@ If organizations want:
 then they must intentionally design their organizations to support those outcomes.
 
 That is the Reverse Conway Maneuver.
+
+*Accelerate*'s longitudinal research confirmed what Conway first described. Forsgren, Humble, and Kim found:
+
+> "Our research shows that software delivery performance strongly predicts organizational performance, including profitability, productivity, and market share."
 
 Without it, modernization efforts often become expensive technology rewrites wrapped around the same organizational dysfunctions.
 
