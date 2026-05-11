@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conway’s Law and the Reverse Conway Maneuver"
+title: "The Reverse Conway Maneuver"
 date: 2026-05-08
 tags: [architecture, conways-law, ddd, team-topologies, agile]
 excerpt: "Organizations often attempt to modernize architecture without modernizing organizational structure. Conway’s Law explains why that rarely works."
