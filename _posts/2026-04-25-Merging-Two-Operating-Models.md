@@ -79,6 +79,8 @@ They directly shape:
 
 This is [Conway’s Law](https://martinfowler.com/bliki/ConwaysLaw.html) at organizational scale.
 
+For a deeper dive into how this shows up in architecture modernization efforts, see [The Reverse Conway Maneuver](/The-Reverse-Conway-Maneuver/).
+
 If one company operates with:
 
 * stream-aligned product teams
@@ -265,6 +267,8 @@ One of the hardest truths in enterprise architecture is this:
 You cannot separate organizational structure from system architecture.
 
 Eventually the systems mirror the communication structure of the organization.
+
+If you want additional context on applying this organizationally, I also covered it in [The Reverse Conway Maneuver](/The-Reverse-Conway-Maneuver/).
 
 If organizations:
 
@@ -482,6 +486,7 @@ Conway’s Law always wins.
 
 # References
 
+* [The Reverse Conway Maneuver](/The-Reverse-Conway-Maneuver/)
 * [Martin Fowler — Programs in Product Mode](https://martinfowler.com/articles/programs-in-product-mode.html)
 * [Martin Fowler — Activity-Oriented Organizations](https://martinfowler.com/bliki/ActivityOriented.html)
 * [Martin Fowler — Business Capability Centric Organizations](https://martinfowler.com/bliki/BusinessCapabilityCentric.html)
