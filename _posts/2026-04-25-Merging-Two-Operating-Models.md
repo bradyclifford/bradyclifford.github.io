@@ -262,11 +262,11 @@ But alignment created through forced process standardization is often fragile.
 
 One of the hardest truths in enterprise architecture is this:
 
-If you want additional context on applying this organizationally, I also covered it in [The Reverse Conway Maneuver](/The-Reverse-Conway-Maneuver/).
-
 You cannot separate organizational structure from system architecture.
 
 Eventually the systems mirror the communication structure of the organization.
+
+If you want additional context on applying this organizationally, I also covered it in [The Reverse Conway Maneuver](/The-Reverse-Conway-Maneuver/).
 
 If organizations:
 
