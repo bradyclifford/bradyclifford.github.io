@@ -51,6 +51,12 @@ Architecture is not purely a technical exercise.
 
 It is a social one.
 
+Martin Fowler and others repeatedly reinforce this idea in modern organizational design discussions. As Fowler describes in *Activity-Oriented Organizations*:
+
+> “Activity-oriented teams are prone to optimize for their own activity and not for the bigger picture of delivering useful software.”
+
+That single sentence explains why so many enterprise modernization efforts fail despite significant technical investment.
+
 ---
 
 # The Architecture Organizations Say They Want
@@ -115,6 +121,14 @@ The operating model does not.
 
 Conway’s Law wins.
 
+Martin Fowler’s *Programs in Product Mode* describes successful product organizations as:
+
+> “loosely coupled, autonomous teams that respond rapidly to articulated and unarticulated user needs.”
+
+That phrase matters because loosely coupled architecture rarely emerges accidentally.
+
+It usually reflects loosely coupled ownership structures.
+
 ---
 
 # The Reverse Conway Maneuver
@@ -139,6 +153,14 @@ If the goal is:
 
 then the teams themselves must align around those boundaries.
 
+Martin Fowler summarized the challenge bluntly:
+
+> “You can change your organization or change your organization.”
+
+The quote sounds circular at first, but the meaning becomes obvious after enough failed transformation programs.
+
+If you want the architecture to change, the communication structure, incentives, governance, and ownership model must change too.
+
 ---
 
 # Durable Teams Matter
@@ -162,6 +184,14 @@ This dramatically improves:
 - long-term maintainability
 
 Temporary project teams rarely achieve this.
+
+As Fowler describes in *Products Over Projects*:
+
+> “A product-mode team is funded on a rolling basis ... The team takes on one problem after another, roughly the same space, working through an evolving roadmap aligned with product/business strategy.”
+
+That continuity is one of the hidden drivers behind sustainable architecture.
+
+Durable ownership creates durable systems.
 
 ---
 
@@ -201,6 +231,14 @@ Product-mode encourages:
 
 Without product-mode thinking, Conway’s Law tends to push systems toward fragmentation and coordination overhead.
 
+One of the clearest descriptions of this distinction comes from Fowler’s *Products Over Projects*:
+
+> “A pre-defined solution or outstanding scope gets funded. A team gets funded.”
+
+That difference completely changes organizational behavior.
+
+When funding follows temporary scope, ownership becomes temporary too.
+
 ---
 
 # Domain-Driven Design Changes Team Design Too
@@ -230,6 +268,12 @@ When teams align to business capabilities and bounded contexts:
 - coordination overhead decreases
 
 The architecture becomes easier to evolve because the organization itself supports the architecture.
+
+This also reinforces Fowler’s criticism of activity-oriented structures:
+
+> “Organizing by activity gets in the way of lowering batch size of work that is handed-off between teams.”
+
+That handoff cost becomes one of the largest hidden forms of enterprise friction.
 
 ---
 
@@ -263,6 +307,8 @@ Teams should collaborate frequently.
 
 But they should not require constant coordination to function.
 
+The strongest organizations I have worked with optimized for clear interfaces, not centralized control.
+
 ---
 
 # Event-Driven Design and Organizational Autonomy
@@ -287,6 +333,10 @@ This allows teams to:
 But event-driven architecture only works well when organizational ownership boundaries are equally clear.
 
 Otherwise organizations simply recreate tight coupling through process instead of technology.
+
+I have seen organizations build technically asynchronous architectures while maintaining entirely synchronous approval and governance models.
+
+The result is usually the same coordination bottleneck wearing different technology.
 
 ---
 
@@ -320,6 +370,10 @@ Governance shifted from gatekeeping to visibility.
 
 That distinction matters enormously.
 
+The organizations that move fastest are usually not the organizations with the fewest controls.
+
+They are the organizations where controls are automated, decentralized, and embedded directly into delivery workflows.
+
 ---
 
 # Product Owners Need Real Authority
@@ -338,6 +392,10 @@ This weakens the entire operating model.
 If organizations want autonomous systems, they must empower autonomous teams.
 
 That requires trust.
+
+High-performing organizations understand that accountability without authority is organizational theater.
+
+Teams cannot own outcomes if they are only permitted to own tasks.
 
 ---
 
@@ -379,6 +437,7 @@ And eventually, the systems reflect it again.
 
 # References
 
+- [Martin Fowler — Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html)
 - [Martin Fowler — Programs in Product Mode](https://martinfowler.com/articles/programs-in-product-mode.html)
 - [Martin Fowler — Activity-Oriented Organizations](https://martinfowler.com/bliki/ActivityOriented.html)
 - [Martin Fowler — Business Capability Centric Organizations](https://martinfowler.com/bliki/BusinessCapabilityCentric.html)
