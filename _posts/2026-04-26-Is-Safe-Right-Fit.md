@@ -1,6 +1,6 @@
 ---
 title: "Is SAFe the Right Fit?"
-date: 2026-04-26
+date: 2026-05-08
 tags: [architecture, agile, safe, conways-law, team-topologies, product-mode]
 excerpt: "SAFe can improve reporting and coordination in the short term, but in many organizations it becomes a mechanism for preserving activity-based structures instead of enabling true agility."
 published: false
@@ -23,6 +23,12 @@ What I *have* seen is organizations using SAFe as a way to avoid confronting dee
 - Large handoff-oriented delivery models
 
 SAFe often becomes a coordination layer wrapped around those existing problems rather than a mechanism that resolves them.
+
+As Martin Fowler describes in *Activity-Oriented Organizations*:
+
+> “Activity-oriented organizations optimize for functional efficiency instead of customer outcomes.”
+
+That pattern is extremely common in enterprise SAFe transformations. The framework becomes an overlay on top of siloed operating structures rather than a catalyst for redesign.
 
 This article builds on concepts discussed in:
 - [Conway’s Law and Reverse Conway Maneuver](https://placeholder-url.com/conways-law)
@@ -57,6 +63,12 @@ From a management perspective, it feels like progress.
 But many organizations confuse improved coordination with improved agility.
 
 Those are not the same thing.
+
+Martin Fowler captured this distinction well in *Programs in Product Mode*:
+
+> “The shift from project to product is fundamentally a shift from temporary delivery structures to persistent ownership.”
+
+SAFe implementations often improve visibility while still preserving temporary project-oriented thinking underneath.
 
 ---
 
@@ -98,6 +110,12 @@ The result is usually:
 
 SAFe can manage that complexity operationally, but it does not necessarily reduce it architecturally.
 
+Martin Fowler described the alternative in *Business Capability Centric Organizations*:
+
+> “Organizations should be aligned around business capabilities rather than technology layers or activities.”
+
+That alignment dramatically reduces coordination overhead because ownership boundaries become clearer both organizationally and architecturally.
+
 ---
 
 # The Hidden Cost: Cognitive Load
@@ -117,6 +135,12 @@ teams spend increasing amounts of time managing the system around delivery inste
 
 Strong teams become slower because they inherit the coordination burden of weaker or more fragmented organizational structures.
 
+Matthew Skelton and Manuel Pais describe this directly in *Team Topologies*:
+
+> “Cognitive load is a limiting factor for teams.”
+
+The more coordination structures organizations introduce, the more cognitive capacity gets consumed by the mechanics of delivery instead of solving customer problems.
+
 This creates an especially painful outcome in organizations that previously had highly autonomous, stream-aligned teams.
 
 Over time:
@@ -128,6 +152,25 @@ Over time:
 - architecture quality degrades
 
 The organization becomes optimized for predictability instead of adaptability.
+
+This is where the research from *Accelerate* becomes particularly important.
+
+Forsgren, Humble, and Kim found that elite-performing organizations were able to achieve both higher stability and higher throughput simultaneously.
+
+Some of the findings that directly contradict common enterprise assumptions include:
+
+- High performers deploy code **multiple times per day**
+- High performers have **lead times measured in hours instead of weeks**
+- High performers recover from incidents significantly faster
+- Change failure rates are *lower*, not higher, in fast-moving organizations
+
+One of the most important conclusions from *Accelerate* was:
+
+> “Speed and stability are not tradeoffs.”
+
+Many enterprise governance models implicitly assume the opposite.
+
+Large coordination-heavy frameworks often optimize for perceived safety while unintentionally reducing both adaptability and actual delivery performance.
 
 ---
 
@@ -153,6 +196,12 @@ Product owners remain backlog coordinators rather than empowered business leader
 The organization talks about agility while preserving the same command-and-control system underneath.
 
 This is one of the most common anti-patterns I have seen in enterprise transformations.
+
+Martin Fowler wrote in *Products Over Projects*:
+
+> “Projects are temporary; products require long-term ownership.”
+
+Without changing funding and ownership models, many agile transformations simply relabel project governance using agile terminology.
 
 ---
 
@@ -180,6 +229,12 @@ This disconnect creates organizational friction and weakens team autonomy.
 
 It also undermines one of the core goals of agile delivery:
 fast learning through empowered teams.
+
+Martin Fowler describes healthy product organizations this way in *Programs in Product Mode*:
+
+> “Persistent teams aligned to business outcomes build deeper domain knowledge and better products.”
+
+That ownership model is difficult to achieve when decision-making remains centralized above the team level.
 
 ---
 
@@ -211,6 +266,12 @@ SAFe often becomes the mechanism used to manage that growing complexity.
 
 But managing complexity is not the same thing as reducing it.
 
+As *Team Topologies* explains:
+
+> “The team is the means of delivery.”
+
+Architecture, communication structure, deployment independence, and flow efficiency all emerge from how teams are designed.
+
 ---
 
 # Reverse Conway Maneuver Matters More Than SAFe
@@ -236,6 +297,12 @@ That means:
 
 No framework can compensate for organizational structures fundamentally working against the architecture.
 
+This idea aligns closely with Conway’s Law itself:
+
+> “Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.”
+
+The Reverse Conway Maneuver intentionally uses that reality to improve architectural outcomes instead of fighting against it.
+
 ---
 
 # Governance Without Bottlenecks
@@ -255,11 +322,22 @@ Governance becomes transparent and measurable rather than approval-driven.
 
 This aligns closely with findings from *Accelerate*, which showed that external approval processes negatively correlate with software delivery performance.
 
+Forsgren, Humble, and Kim found that:
+
+> “Approval processes are positively correlated with burnout and negatively correlated with performance.”
+
+That finding challenges a deeply embedded assumption in many enterprise governance models.
+
 Organizations become safer not by slowing down changes, but by:
 - improving detection
 - improving recovery
 - reducing batch sizes
 - increasing deployment confidence
+
+Another important finding from *Accelerate* was that smaller batch sizes and frequent deployments reduce risk because problems become easier to isolate and recover from.
+
+Large governance-heavy release models often create the exact opposite condition:
+large risky deployments coordinated across many teams simultaneously.
 
 ---
 
@@ -306,7 +384,23 @@ Their systems reflected those structures.
 
 That is Conway’s Law in action.
 
+Martin Fowler summarized this well in *Outcome-Oriented Organizations*:
+
+> “Outcome-oriented organizations focus on results rather than activities.”
+
 SAFe can improve planning optics and organizational coordination. But if the underlying operating model remains project-centric and activity-oriented, the organization will continue producing tightly coupled systems and slow delivery patterns regardless of the agile terminology being used.
+
+The data from *Accelerate* reinforces this reality:
+the highest-performing technology organizations consistently optimize for:
+- fast feedback
+- low-friction delivery
+- deployment automation
+- empowered teams
+- reduced handoffs
+- smaller batch sizes
+- continuous learning
+
+Not heavier coordination structures.
 
 In the end, sustainable agility comes less from frameworks and more from:
 - trust
