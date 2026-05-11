@@ -1,6 +1,7 @@
 ---
 title: Merging Two Operating Models After an Acquisition
 date: 2026-05-08
+written_on: 2026-05-08
 tags:
   - architecture
   - operating-models
