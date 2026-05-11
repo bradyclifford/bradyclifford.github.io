@@ -16,7 +16,7 @@ I based my slidedeck on the presentation [Peter Hunt](https://youtu.be/VkTCL6Nqm
 - Con is that the initial load takes too long
 - Instagram has 10 SPAs in their architecture
 - Reduce amount of HTTP requests & bytes downloaded
-- Bundling everything into one file is not the best approach2.5MB gzip bundled file is too big.
+- Bundling everything into one file is not the best approach. 2.5MB gzip bundled file is too big.
 - Utilize a module system to intelligently bundle your packages with a dynamic dependency map.
 
 The 2 slides from his presentation that impacted me the most:
