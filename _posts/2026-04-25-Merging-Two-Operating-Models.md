@@ -15,7 +15,7 @@ One of the most difficult transformations I have experienced was not a cloud mig
 
 It was attempting to merge two fundamentally different operating models after an acquisition.
 
-[![Conway's Law Diagram](images/posts/2026-04-25-Merging-Two-Operating-Models.png)](/images/posts/2026-04-25-Merging-Two-Operating-Models.png)
+[![Two Operating Models Collide Diagram](/images/posts/2026-04-25-Merging-Two-Operating-Models.png)](/images/posts/2026-04-25-Merging-Two-Operating-Models.png)
 
 Most organizations assume the challenge will primarily be:
 
@@ -229,12 +229,6 @@ This model tends to produce:
 * lower coordination overhead
 
 But it requires significant organizational trust.
-
-As Fowler describes in *Products Over Projects*:
-
-> "A team gets funded."
->
-> — Martin Fowler, *Products Over Projects*
 
 That sounds deceptively simple, but it fundamentally changes ownership models, incentives, and long-term architectural evolution.
 
