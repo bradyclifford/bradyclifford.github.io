@@ -15,6 +15,8 @@ One of the most difficult transformations I have experienced was not a cloud mig
 
 It was attempting to merge two fundamentally different operating models after an acquisition.
 
+[![Conway's Law Diagram](/images/posts/2025-04-25-Conways-Law.png)](/images/posts/2026-04-25-Merging-Two-Operating-Models.png)
+
 Most organizations assume the challenge will primarily be:
 
 * Systems integration
