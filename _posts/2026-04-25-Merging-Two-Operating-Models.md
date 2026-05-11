@@ -62,6 +62,12 @@ Martin Fowler and Sriram Narayan described this tension well when discussing pro
 
 The mistake many acquiring organizations make is assuming those durable operating characteristics can simply be replaced through process standardization.
 
+*Accelerate* shows what is lost when those conditions are disrupted:
+
+> "Continuous delivery improves both delivery performance and quality, and it helps improve culture and reduces burnout and deployment pain."
+>
+> — *Accelerate: The Science of Lean Software and DevOps* (Forsgren, Humble, Kim)
+
 ---
 
 # Operating Models Are Architectural Forces
@@ -106,6 +112,12 @@ As Fowler and Narayan describe:
 > — Martin Fowler, *Programs in Product Mode*
 
 That relationship between organizational communication and system design becomes critically important during mergers.
+
+*Accelerate* ties this architectural coupling directly to delivery performance:
+
+> "Our research found that high performers were more likely to have a loosely coupled architecture. A loosely coupled architecture enables teams to make large-scale changes to the design of their system without depending on other teams to make changes in their own systems, and without requiring permission from outside the team."
+>
+> — *Accelerate: The Science of Lean Software and DevOps* (Forsgren, Humble, Kim)
 
 ---
 
@@ -226,6 +238,12 @@ As Fowler describes in *Products Over Projects*:
 
 That sounds deceptively simple, but it fundamentally changes ownership models, incentives, and long-term architectural evolution.
 
+*Accelerate* confirms the performance advantage this model produces:
+
+> "High performers were more likely to be able to make large-scale changes to the design of their systems on their own, without depending on other teams to make changes in their systems, and without requiring orchestration with other teams."
+>
+> — *Accelerate: The Science of Lean Software and DevOps* (Forsgren, Humble, Kim)
+
 ---
 
 # Why Standardization Often Fails
@@ -257,6 +275,12 @@ The organization is measuring one operating model using metrics designed for ano
 In many cases, leadership mistakes reduced autonomy for improved alignment.
 
 But alignment created through forced process standardization is often fragile.
+
+The *Accelerate* research on organizational culture explains why:
+
+> "Organizational culture predicts the way information flows through an organization. Good information flow is critical to the safe and effective operation of high-tempo and complex operations such as software development and delivery."
+>
+> — *Accelerate: The Science of Lean Software and DevOps* (Forsgren, Humble, Kim)
 
 ---
 
@@ -450,6 +474,12 @@ As Fowler wrote in *Products Over Projects*:
 > — Martin Fowler, *Products Over Projects*
 
 That level of ownership cannot exist in organizations built entirely around temporary delivery structures and fragmented accountability.
+
+*Accelerate* identifies organizational culture as the precondition that makes this ownership sustainable:
+
+> "Our research strongly suggests that culture is one of the most important predictors of IT performance and organizational performance in general. High-trust, generative cultures outperform low-trust, bureaucratic ones—and that difference compounds over time."
+>
+> — *Accelerate: The Science of Lean Software and DevOps* (Forsgren, Humble, Kim)
 
 ---
 
