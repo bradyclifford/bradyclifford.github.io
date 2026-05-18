@@ -6,15 +6,13 @@ excerpt: "SAFe can improve reporting and coordination in the short term, but in 
 published: true
 ---
 
-# Is SAFe the Right Fit?
-
 Over the years, I have worked with organizations attempting to “become agile” while still preserving traditional operating models, governance structures, approval chains, and project funding practices. In many of those environments, the Scaled Agile Framework (SAFe) was introduced as the solution.
 
 In practice, I have rarely seen SAFe solve the underlying problem.
 
 What I *have* seen is organizations using SAFe as a way to avoid confronting deeper organizational and architectural issues:
 
-- [Conway’s Law misalignment](./2025-04-25-Conways-Law.md)
+- [Conway’s Law misalignment](/2025-04-25-Conways-Law.md)
 - Project-based funding models
 - Activity-oriented organizational structures
 - Lack of trust in product ownership
@@ -31,8 +29,8 @@ As Martin Fowler describes in *Activity-Oriented Organizations*:
 That pattern is extremely common in enterprise SAFe transformations. The framework becomes an overlay on top of siloed operating structures rather than a catalyst for redesign.
 
 This article builds on concepts discussed in:
-- [Conway’s Law and Reverse Conway Maneuver](./2025-04-25-Conways-Law.md)
-- [Merging Two Operating Models](./2026-04-25-Merging-Two-Operating-Models.md)
+- [Conway’s Law and Reverse Conway Maneuver](/2025-04-25-Conways-Law.md)
+- [Merging Two Operating Models](/2026-04-25-Merging-Two-Operating-Models.md)
 
 ---
 
@@ -303,7 +301,7 @@ This idea aligns closely with Conway’s Law itself:
 
 The Reverse Conway Maneuver intentionally uses that reality to improve architectural outcomes instead of fighting against it.
 
-> See [The Reverse Conway Maneuver](./2025-04-25-Conways-Law.md) for additional details.
+> See [The Reverse Conway Maneuver](/2025-04-25-Conways-Law.md) for additional details.
 
 ---
 
