@@ -28,6 +28,8 @@ As Martin Fowler describes in *Activity-Oriented Organizations*:
 
 That pattern is extremely common in enterprise SAFe transformations. The framework becomes an overlay on top of siloed operating structures rather than a catalyst for redesign.
 
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/72bd9061-66a4-4429-b69a-d33de30b7e81" />
+
 This article builds on concepts discussed in:
 - [Conway’s Law and Reverse Conway Maneuver](/Conways-Law/)
 - [Merging Two Operating Models](/Merging-Two-Operating-Models/)
