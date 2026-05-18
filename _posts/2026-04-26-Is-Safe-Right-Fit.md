@@ -3,7 +3,7 @@ title: "Is SAFe the Right Fit?"
 date: 2026-05-08
 tags: [architecture, agile, safe, conways-law, team-topologies, product-mode]
 excerpt: "SAFe can improve reporting and coordination in the short term, but in many organizations it becomes a mechanism for preserving activity-based structures instead of enabling true agility."
-published: false
+published: true
 ---
 
 # Is SAFe the Right Fit?
@@ -14,7 +14,7 @@ In practice, I have rarely seen SAFe solve the underlying problem.
 
 What I *have* seen is organizations using SAFe as a way to avoid confronting deeper organizational and architectural issues:
 
-- [Conway’s Law misalignment](./2025-05-25-Conways-Law.md)
+- [Conway’s Law misalignment](./2025-04-25-Conways-Law.md)
 - Project-based funding models
 - Activity-oriented organizational structures
 - Lack of trust in product ownership
@@ -31,7 +31,7 @@ As Martin Fowler describes in *Activity-Oriented Organizations*:
 That pattern is extremely common in enterprise SAFe transformations. The framework becomes an overlay on top of siloed operating structures rather than a catalyst for redesign.
 
 This article builds on concepts discussed in:
-- [Conway’s Law and Reverse Conway Maneuver](./2025-05-25-Conways-Law.md)
+- [Conway’s Law and Reverse Conway Maneuver](./2025-04-25-Conways-Law.md)
 - [Merging Two Operating Models](./2026-04-25-Merging-Two-Operating-Models.md)
 
 ---
