@@ -14,7 +14,7 @@ In practice, I have rarely seen SAFe solve the underlying problem.
 
 What I *have* seen is organizations using SAFe as a way to avoid confronting deeper organizational and architectural issues:
 
-- Conway’s Law misalignment
+- [Conway’s Law misalignment](./2025-05-25-Conways-Law.md)
 - Project-based funding models
 - Activity-oriented organizational structures
 - Lack of trust in product ownership
@@ -31,8 +31,8 @@ As Martin Fowler describes in *Activity-Oriented Organizations*:
 That pattern is extremely common in enterprise SAFe transformations. The framework becomes an overlay on top of siloed operating structures rather than a catalyst for redesign.
 
 This article builds on concepts discussed in:
-- [Conway’s Law and Reverse Conway Maneuver](https://placeholder-url.com/conways-law)
-- [Merging Two Operating Models](https://placeholder-url.com/merging-operating-models)
+- [Conway’s Law and Reverse Conway Maneuver](./2025-05-25-Conways-Law.md)
+- [Merging Two Operating Models](./2026-04-25-Merging-Two-Operating-Models.md)
 
 ---
 
@@ -179,7 +179,7 @@ Large coordination-heavy frameworks often optimize for perceived safety while un
 Many organizations adopting SAFe still operate fundamentally in waterfall patterns.
 
 The terminology changes:
-- projects become “epics”
+- projects become “epics” or "initiatives"
 - phases become “program increments”
 - release planning becomes “PI planning”
 
@@ -240,7 +240,7 @@ That ownership model is difficult to achieve when decision-making remains centra
 
 # Durable Teams vs Temporary Coordination Structures
 
-In my experience, durable, domain-aligned teams outperform large-scale coordination models over the long term.
+In my experience, durable, domain-aligned, stream-aligned teams outperform large-scale coordination models over the long term.
 
 Strong product organizations optimize for:
 - bounded contexts
@@ -302,6 +302,8 @@ This idea aligns closely with Conway’s Law itself:
 > “Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.”
 
 The Reverse Conway Maneuver intentionally uses that reality to improve architectural outcomes instead of fighting against it.
+
+> See [The Reverse Conway Maneuver](./2025-04-25-Conways-Law.md) for additional details.
 
 ---
 
@@ -418,30 +420,14 @@ They cannot replace them.
 
 # References
 
-- Martin Fowler — Programs in Product Mode  
-  https://martinfowler.com/articles/programs-in-product-mode.html
-
-- Martin Fowler — Activity-Oriented Organizations  
-  https://martinfowler.com/bliki/ActivityOriented.html
-
-- Martin Fowler — Business Capability Centric Organizations  
-  https://martinfowler.com/bliki/BusinessCapabilityCentric.html
-
-- Martin Fowler — Outcome-Oriented Organizations  
-  https://martinfowler.com/bliki/OutcomeOriented.html
-
-- Martin Fowler — Products Over Projects  
-  https://martinfowler.com/articles/products-over-projects.html
-
-- Martin Fowler — Team Topologies  
-  https://martinfowler.com/bliki/TeamTopologies.html
-
+- [Martin Fowler — Programs in Product Mode](https://martinfowler.com/articles/programs-in-product-mode.html)
+- [Martin Fowler — Activity-Oriented Organizations](https://martinfowler.com/bliki/ActivityOriented.html)
+- [Martin Fowler — Business Capability Centric Organizations](https://martinfowler.com/bliki/BusinessCapabilityCentric.html)
+- [Martin Fowler — Outcome-Oriented Organizations](https://martinfowler.com/bliki/OutcomeOriented.html)
+- [Martin Fowler — Products Over Projects](https://martinfowler.com/articles/products-over-projects.html)
+- [Martin Fowler — Team Topologies](https://martinfowler.com/bliki/TeamTopologies.html)
 - Forsgren, Humble, Kim — *Accelerate: The Science of Lean Software and DevOps*
-
 - Eric Evans — *Domain-Driven Design*
-
 - Matthew Skelton & Manuel Pais — *Team Topologies*
-
 - Tradable Quality Hypothesis
-
 - Design Stamina Hypothesis
